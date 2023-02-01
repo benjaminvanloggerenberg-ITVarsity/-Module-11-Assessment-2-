@@ -1,0 +1,85 @@
+#nav-bar{
+    background-color: #d9d9f3;
+}
+
+.blog-header{
+    margin-top: 8rem;
+    max-width: 700px;
+    background-color: #ebdcc8;
+}
+
+
+#logo{
+    font-weight: 1000;
+    font-family: 'Rubik Vinyl', cursive;
+}
+
+#page-title{
+    color: #181e74;
+}
+
+#page-title-ab{
+    padding: 10px 0px;
+}
+
+#card-body{
+    width: 90%;
+}
+
+
+#rest-title{
+    text-align: center;
+}
+
+@media (min-width: 768px){
+    html{
+        font-size: 16px;
+    }
+
+    .blog-header{
+        margin-top: 10rem;
+    }
+
+   
+
+    #card-body{
+        width: 65%;
+
+    }
+
+}
+
+.card-deck .card{
+    min-width: 220px;
+} 
+
+.card-text{
+    padding-top: 1rem;
+}
+
+.card-block{
+    min-height: 220px;
+}
+
+i{
+    color: #f0890b;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
